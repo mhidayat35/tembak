@@ -23,11 +23,11 @@ apt install python-pillow
 ```
 4. Clone this repo
 ```
-git clone https://github.com/purplemashu/me-cli
+git clone https://github.com/mhidayat35/tembak
 ```
 5. Open the folder
 ```
-cd me-cli
+cd tembak
 ```
 6. Install dependencies
 ```
